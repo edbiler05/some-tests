@@ -1,0 +1,602 @@
+CRITICAL - 2022-01-05 03:56:37 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-05 04:02:57 --> Call to a member function getPost() on null
+#0 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-05 04:04:21 --> Call to a member function getPost() on null
+#0 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-05 04:05:21 --> Call to a member function getPost() on null
+#0 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-05 04:05:24 --> Call to a member function getPost() on null
+#0 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-05 04:06:49 --> Call to a member function getPost() on null
+#0 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-05 04:07:47 --> Call to a member function getPost() on null
+#0 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-05 09:08:32 --> Undefined variable $title
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 09:08:38 --> Undefined variable $title
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(33): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 09:08:45 --> Undefined variable $title
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(33): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 09:09:23 --> Undefined variable $title
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(31): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 18:09:20 --> Undefined variable $data
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Dashboard.php(20): view('common/header', Array)
+#5 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-05 20:01:25 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:04:18 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:04:37 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:06:37 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:07:36 --> Class "Config\AuthCheckFilter" not found
+#0 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-01-05 20:09:10 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:13:33 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:13:36 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:13:58 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:14:00 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:14:07 --> Class "Config\App\Filters\AuthCheckFilter" not found
+#0 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-01-05 20:15:00 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:15:07 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:24:07 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:24:42 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:31:19 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 20:44:47 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 20:44:49 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(31): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 20:44:52 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(31): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 20:49:03 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(31): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 20:51:56 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(31): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 20:51:58 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(31): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 20:52:03 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 20:52:06 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 20:52:07 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 20:52:16 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Home.php(9): view('common/header')
+#5 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-05 20:52:38 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Home.php(9): view('common/header')
+#5 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-05 20:53:12 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Home.php(9): view('common/header')
+#5 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-05 20:53:42 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 20:53:43 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 20:55:05 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Home.php(9): view('common/header')
+#5 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-05 20:56:40 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Home.php(9): view('common/header')
+#5 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-05 20:58:27 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 22:11:59 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 22:12:00 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 22:12:08 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(31): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 22:12:10 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(31): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 22:15:40 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(31): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 22:15:47 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 22:15:53 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Home.php(9): view('common/header')
+#5 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-05 22:16:20 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 22:18:01 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 22:18:08 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(31): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 22:18:10 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(31): App\Controllers\Auth->render_page('auth/register', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 22:18:26 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\bsystem\app\Views\common\header.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\bsystem\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#5 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-05 22:18:56 --> syntax error, unexpected token ";"
+#0 C:\xampp\htdocs\bsystem\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\bsystem\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#2 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(23): view('common/header')
+#3 C:\xampp\htdocs\bsystem\app\Controllers\Auth.php(18): App\Controllers\Auth->render_page('auth/login', Array)
+#4 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#5 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-05 22:20:21 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 22:30:05 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 22:30:07 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 22:40:13 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 22:40:15 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 22:42:22 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-05 22:42:25 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\xampp\\htdocs...', 438)
+#1 C:\xampp\htdocs\bsystem\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\xampp\htdocs\bsystem\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bsystem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

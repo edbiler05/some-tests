@@ -1,0 +1,989 @@
+CRITICAL - 2022-01-08 03:53:58 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 04:06:25 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 04:08:27 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 04:09:03 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 04:16:42 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 04:21:52 --> New expressions are not supported in this context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-08 04:21:56 --> New expressions are not supported in this context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-08 04:22:06 --> New expressions are not supported in this context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-08 04:24:40 --> Undefined variable $usersmodel
+#0 C:\vhost\ci1\app\Controllers\Profile.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 25)
+#1 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Profile->index()
+#2 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 04:26:25 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 04:28:50 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 04:29:38 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 04:29:57 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 04:31:54 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 04:56:52 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 05:00:24 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 05:03:26 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 05:25:49 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 05:51:02 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 05:52:13 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\vhost\\ci1\\sy...', 934)
+#1 C:\vhost\ci1\system\Database\BaseConnection.php(934): number_format(NULL, 6)
+#2 C:\vhost\ci1\system\Debug\Toolbar\Collectors\Database.php(111): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\vhost\ci1\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\vhost\ci1\system\Debug\Toolbar.php(364): CodeIgniter\Debug\Toolbar->run(1641642733.2486, 0.1613, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse))
+#7 C:\vhost\ci1\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse))
+#8 C:\vhost\ci1\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), NULL)
+#9 C:\vhost\ci1\system\CodeIgniter.php(427): CodeIgniter\Filters\Filters->run('auth/logout', 'after')
+#10 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-08 05:53:35 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\vhost\\ci1\\sy...', 934)
+#1 C:\vhost\ci1\system\Database\BaseConnection.php(934): number_format(NULL, 6)
+#2 C:\vhost\ci1\system\Debug\Toolbar\Collectors\Database.php(111): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\vhost\ci1\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\vhost\ci1\system\Debug\Toolbar.php(364): CodeIgniter\Debug\Toolbar->run(1641642814.9025, 0.1813, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\vhost\ci1\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\vhost\ci1\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\vhost\ci1\system\CodeIgniter.php(427): CodeIgniter\Filters\Filters->run('auth/logout', 'after')
+#10 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-08 05:53:36 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\vhost\\ci1\\sy...', 934)
+#1 C:\vhost\ci1\system\Database\BaseConnection.php(934): number_format(NULL, 6)
+#2 C:\vhost\ci1\system\Debug\Toolbar\Collectors\Database.php(111): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\vhost\ci1\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\vhost\ci1\system\Debug\Toolbar.php(364): CodeIgniter\Debug\Toolbar->run(1641642816.699, 0.171, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\vhost\ci1\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\vhost\ci1\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\vhost\ci1\system\CodeIgniter.php(427): CodeIgniter\Filters\Filters->run('auth', 'after')
+#10 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-08 05:53:38 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\vhost\\ci1\\sy...', 934)
+#1 C:\vhost\ci1\system\Database\BaseConnection.php(934): number_format(NULL, 6)
+#2 C:\vhost\ci1\system\Debug\Toolbar\Collectors\Database.php(111): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\vhost\ci1\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\vhost\ci1\system\Debug\Toolbar.php(364): CodeIgniter\Debug\Toolbar->run(1641642818.6624, 0.1502, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\vhost\ci1\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\vhost\ci1\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\vhost\ci1\system\CodeIgniter.php(427): CodeIgniter\Filters\Filters->run('auth', 'after')
+#10 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-08 05:53:46 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\vhost\\ci1\\sy...', 934)
+#1 C:\vhost\ci1\system\Database\BaseConnection.php(934): number_format(NULL, 6)
+#2 C:\vhost\ci1\system\Debug\Toolbar\Collectors\Database.php(111): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\vhost\ci1\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\vhost\ci1\system\Debug\Toolbar.php(364): CodeIgniter\Debug\Toolbar->run(1641642826.0206, 0.1452, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\vhost\ci1\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\vhost\ci1\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\vhost\ci1\system\CodeIgniter.php(427): CodeIgniter\Filters\Filters->run('auth', 'after')
+#10 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-08 05:55:01 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\vhost\\ci1\\sy...', 934)
+#1 C:\vhost\ci1\system\Database\BaseConnection.php(934): number_format(NULL, 6)
+#2 C:\vhost\ci1\system\Debug\Toolbar\Collectors\Database.php(111): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\vhost\ci1\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\vhost\ci1\system\Debug\Toolbar.php(364): CodeIgniter\Debug\Toolbar->run(1641642901.2316, 0.1649, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\vhost\ci1\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\vhost\ci1\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\vhost\ci1\system\CodeIgniter.php(427): CodeIgniter\Filters\Filters->run('auth', 'after')
+#10 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-08 05:55:32 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\vhost\\ci1\\sy...', 934)
+#1 C:\vhost\ci1\system\Database\BaseConnection.php(934): number_format(NULL, 6)
+#2 C:\vhost\ci1\system\Debug\Toolbar\Collectors\Database.php(111): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\vhost\ci1\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\vhost\ci1\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\vhost\ci1\system\Debug\Toolbar.php(364): CodeIgniter\Debug\Toolbar->run(1641642931.9178, 0.1515, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\vhost\ci1\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\vhost\ci1\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\vhost\ci1\system\CodeIgniter.php(427): CodeIgniter\Filters\Filters->run('auth', 'after')
+#10 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-08 07:02:02 --> Undefined property: App\Controllers\Profile::$userModel
+#0 C:\vhost\ci1\app\Controllers\Profile.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\vhost\\ci1\\ap...', 51)
+#1 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Profile->save()
+#2 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 07:33:32 --> Undefined array key "province"
+#0 C:\vhost\ci1\app\Views\pages\profile.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\vhost\\ci1\\ap...', 58)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('pages/profile', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Profile.php(37): view('pages/profile')
+#5 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Profile->index()
+#6 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#7 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-08 18:24:45 --> Trying to access array offset on value of type null
+#0 C:\vhost\ci1\app\Views\pages\profile.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\vhost\\ci1\\ap...', 45)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('pages/profile', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Profile.php(50): view('pages/profile')
+#5 C:\vhost\ci1\app\Controllers\Profile.php(40): App\Controllers\Profile->render_page('pages/profile', Array)
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Profile->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 18:28:01 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\pages\profile.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 45)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('pages/profile', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Profile.php(55): view('pages/profile')
+#5 C:\vhost\ci1\app\Controllers\Profile.php(45): App\Controllers\Profile->render_page('pages/profile', Array)
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Profile->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 18:28:40 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\pages\profile.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 45)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('pages/profile', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Profile.php(55): view('pages/profile')
+#5 C:\vhost\ci1\app\Controllers\Profile.php(45): App\Controllers\Profile->render_page('pages/profile', Array)
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Profile->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 18:28:41 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\pages\profile.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 45)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('pages/profile', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Profile.php(55): view('pages/profile')
+#5 C:\vhost\ci1\app\Controllers\Profile.php(45): App\Controllers\Profile->render_page('pages/profile', Array)
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Profile->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 18:32:53 -->  route cannot be found while reverse-routing.
+#0 C:\vhost\ci1\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\vhost\ci1\system\Common.php(840): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\vhost\ci1\app\Controllers\Profile.php(59): redirect('/auth/login')
+#3 C:\vhost\ci1\app\Controllers\Profile.php(45): App\Controllers\Profile->render_page('pages/profile', Array)
+#4 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Profile->index()
+#5 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#6 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-08 18:33:17 -->  route cannot be found while reverse-routing.
+#0 C:\vhost\ci1\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\vhost\ci1\system\Common.php(840): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\vhost\ci1\app\Controllers\Profile.php(59): redirect('/auth')
+#3 C:\vhost\ci1\app\Controllers\Profile.php(45): App\Controllers\Profile->render_page('pages/profile', Array)
+#4 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Profile->index()
+#5 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#6 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-08 18:40:18 -->  route cannot be found while reverse-routing.
+#0 C:\vhost\ci1\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\vhost\ci1\system\Common.php(840): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\vhost\ci1\app\Controllers\Profile.php(63): redirect('/auth/login')
+#3 C:\vhost\ci1\app\Controllers\Profile.php(45): App\Controllers\Profile->render_page('pages/profile', Array)
+#4 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Profile->index()
+#5 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#6 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-08 18:48:57 --> Undefined variable $data
+#0 C:\vhost\ci1\app\Controllers\Auth.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 41)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(50): App\Controllers\Auth->render_page('auth/register')
+#2 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#3 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-08 19:01:16 --> Undefined variable $data
+#0 C:\vhost\ci1\app\Controllers\Auth.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 42)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(22): App\Controllers\Auth->render_page('auth/login')
+#2 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#3 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-08 19:01:17 --> Undefined variable $data
+#0 C:\vhost\ci1\app\Controllers\Auth.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 42)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(22): App\Controllers\Auth->render_page('auth/login')
+#2 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#3 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-08 19:16:30 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(53): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(83): App\Controllers\Auth->validate_comp(NULL)
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->save()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 19:20:41 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(52): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(84): App\Controllers\Auth->validate_comp(NULL)
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->save()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 19:26:07 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(55): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(84): App\Controllers\Auth->validate_comp(NULL)
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->save()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 19:30:57 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(58): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->save()
+#3 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-08 20:11:43 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(58): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(76): App\Controllers\Auth->do_validation('')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->save()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:13:30 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(58): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(81): App\Controllers\Auth->do_validation('')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->save()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:37:27 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(43): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(23): App\Controllers\Auth->render_page('auth/login')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:37:56 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(43): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(23): App\Controllers\Auth->render_page('auth/login')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:38:04 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(43): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(23): App\Controllers\Auth->render_page('auth/login')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:38:04 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(43): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(23): App\Controllers\Auth->render_page('auth/login')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:39:35 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(43): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(60): App\Controllers\Auth->render_page('auth/register')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:39:37 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(43): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(60): App\Controllers\Auth->render_page('auth/register')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:41:30 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(46): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(62): App\Controllers\Auth->render_page('auth/register')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:41:33 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(46): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(62): App\Controllers\Auth->render_page('auth/register')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:41:44 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(46): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(62): App\Controllers\Auth->render_page('auth/register')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:41:47 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(46): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(62): App\Controllers\Auth->render_page('auth/register')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:41:48 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(46): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(23): App\Controllers\Auth->render_page('auth/login')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:41:53 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(46): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\app\Controllers\Auth.php(62): App\Controllers\Auth->render_page('auth/register')
+#3 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#4 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-08 20:44:45 --> trim(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'trim(): Passing...', 'C:\\vhost\\ci1\\sy...', 252)
+#1 C:\vhost\ci1\system\Validation\Rules.php(252): trim(NULL)
+#2 C:\vhost\ci1\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->required(NULL, NULL)
+#3 C:\vhost\ci1\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('fname', 'fname', NULL, Array, Array)
+#4 C:\vhost\ci1\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#5 C:\vhost\ci1\app\Controllers\Auth.php(47): CodeIgniter\Controller->validate(Array)
+#6 C:\vhost\ci1\app\Controllers\Auth.php(61): App\Controllers\Auth->render_page('auth/register')
+#7 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#8 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-08 20:46:49 --> trim(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'trim(): Passing...', 'C:\\vhost\\ci1\\sy...', 252)
+#1 C:\vhost\ci1\system\Validation\Rules.php(252): trim(NULL)
+#2 C:\vhost\ci1\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->required(NULL, NULL)
+#3 C:\vhost\ci1\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('fname', 'fname', NULL, Array, Array)
+#4 C:\vhost\ci1\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#5 C:\vhost\ci1\app\Controllers\Auth.php(47): CodeIgniter\Controller->validate(Array)
+#6 C:\vhost\ci1\app\Controllers\Auth.php(61): App\Controllers\Auth->render_page('auth/register')
+#7 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#8 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-08 20:50:49 --> trim(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'trim(): Passing...', 'C:\\vhost\\ci1\\sy...', 252)
+#1 C:\vhost\ci1\system\Validation\Rules.php(252): trim(NULL)
+#2 C:\vhost\ci1\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->required(NULL, NULL)
+#3 C:\vhost\ci1\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('fname', 'fname', NULL, Array, Array)
+#4 C:\vhost\ci1\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#5 C:\vhost\ci1\app\Controllers\Auth.php(48): CodeIgniter\Controller->validate(Array)
+#6 C:\vhost\ci1\app\Controllers\Auth.php(64): App\Controllers\Auth->render_page('auth/register')
+#7 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#8 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-08 20:51:43 --> trim(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'trim(): Passing...', 'C:\\vhost\\ci1\\sy...', 252)
+#1 C:\vhost\ci1\system\Validation\Rules.php(252): trim(NULL)
+#2 C:\vhost\ci1\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->required(NULL, NULL)
+#3 C:\vhost\ci1\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('fname', 'fname', NULL, Array, Array)
+#4 C:\vhost\ci1\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#5 C:\vhost\ci1\app\Controllers\Auth.php(48): CodeIgniter\Controller->validate(Array)
+#6 C:\vhost\ci1\app\Controllers\Auth.php(64): App\Controllers\Auth->render_page('auth/register', Array)
+#7 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#8 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-08 20:52:16 --> trim(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'trim(): Passing...', 'C:\\vhost\\ci1\\sy...', 252)
+#1 C:\vhost\ci1\system\Validation\Rules.php(252): trim(NULL)
+#2 C:\vhost\ci1\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->required(NULL, NULL)
+#3 C:\vhost\ci1\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('fname', 'fname', NULL, Array, Array)
+#4 C:\vhost\ci1\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#5 C:\vhost\ci1\app\Controllers\Auth.php(48): CodeIgniter\Controller->validate(Array)
+#6 C:\vhost\ci1\app\Controllers\Auth.php(67): App\Controllers\Auth->render_page('auth/register')
+#7 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#8 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-08 21:26:09 --> trim(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'trim(): Passing...', 'C:\\vhost\\ci1\\sy...', 252)
+#1 C:\vhost\ci1\system\Validation\Rules.php(252): trim(NULL)
+#2 C:\vhost\ci1\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->required(NULL, NULL)
+#3 C:\vhost\ci1\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('fname', 'fname', NULL, Array, Array)
+#4 C:\vhost\ci1\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#5 C:\vhost\ci1\app\Controllers\Auth.php(48): CodeIgniter\Controller->validate(Array)
+#6 C:\vhost\ci1\app\Controllers\Auth.php(23): App\Controllers\Auth->render_page('auth/login')
+#7 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#8 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-08 21:27:14 --> trim(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'trim(): Passing...', 'C:\\vhost\\ci1\\sy...', 252)
+#1 C:\vhost\ci1\system\Validation\Rules.php(252): trim(NULL)
+#2 C:\vhost\ci1\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->required(NULL, NULL)
+#3 C:\vhost\ci1\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('fname', 'fname', NULL, Array, Array)
+#4 C:\vhost\ci1\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#5 C:\vhost\ci1\app\Controllers\Auth.php(48): CodeIgniter\Controller->validate(Array)
+#6 C:\vhost\ci1\app\Controllers\Auth.php(67): App\Controllers\Auth->render_page('auth/register')
+#7 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#8 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-08 21:27:15 --> trim(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'trim(): Passing...', 'C:\\vhost\\ci1\\sy...', 252)
+#1 C:\vhost\ci1\system\Validation\Rules.php(252): trim(NULL)
+#2 C:\vhost\ci1\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->required(NULL, NULL)
+#3 C:\vhost\ci1\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('fname', 'fname', NULL, Array, Array)
+#4 C:\vhost\ci1\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#5 C:\vhost\ci1\app\Controllers\Auth.php(48): CodeIgniter\Controller->validate(Array)
+#6 C:\vhost\ci1\app\Controllers\Auth.php(23): App\Controllers\Auth->render_page('auth/login')
+#7 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#8 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-08 21:27:21 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 21:41:07 --> Call to a member function getPost() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\vhost\ci1\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 21:41:22 --> Call to a member function getPost() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\vhost\ci1\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 21:41:25 --> Call to a member function getPost() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\vhost\ci1\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 21:53:52 --> Call to a member function getPost() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\vhost\ci1\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 21:55:21 --> Call to a member function getPost() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\vhost\ci1\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 21:56:15 --> Call to a member function getPost() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#1 C:\vhost\ci1\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 22:18:27 --> Undefined property: App\Controllers\Auth::$usersmodel
+#0 C:\vhost\ci1\app\Controllers\Auth.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\vhost\\ci1\\ap...', 24)
+#1 C:\vhost\ci1\system\CodeIgniter.php(801): App\Controllers\Auth->__construct()
+#2 C:\vhost\ci1\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 22:28:31 --> Call to a member function where() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->check()
+#1 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 22:29:38 --> Call to a member function where() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->check()
+#1 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 22:32:15 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'str_replace(): ...', 'C:\\vhost\\ci1\\sy...', 438)
+#1 C:\vhost\ci1\system\HTTP\ResponseTrait.php(438): str_replace(Array, '', NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(389): CodeIgniter\HTTP\Response->send()
+#3 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-08 22:32:35 --> Call to a member function where() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->check()
+#1 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 22:34:16 --> Call to a member function where() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->check()
+#1 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 22:35:13 --> Call to a member function where() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->check()
+#1 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 22:36:26 --> Call to a member function where() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->check()
+#1 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 22:46:12 --> Call to a member function where() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->check()
+#1 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 22:48:06 --> Undefined variable $rules_arr
+#0 C:\vhost\ci1\app\Libraries\Validation_rules.php(122): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 122)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(120): App\Libraries\Validation_rules::getrules(NULL)
+#2 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->check()
+#3 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-08 23:00:23 --> Call to a member function where() on null
+#0 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->check()
+#1 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-08 23:16:03 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(32): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('auth/login')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:16:18 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(32): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(40): App\Controllers\Auth->render_page('auth/register')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:20:41 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(37): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('auth/login')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:24:42 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(35): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:25:04 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(35): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:25:42 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(35): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:26:38 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(35): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:27:20 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(36): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:31:39 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(36): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:31:41 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(36): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:33:23 --> view(): Argument #2 ($data) must be of type array, null given, called in C:\vhost\ci1\app\Controllers\Auth.php on line 37
+#0 C:\vhost\ci1\app\Controllers\Auth.php(37): view('common/header', NULL)
+#1 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#2 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#3 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-08 23:35:20 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(36): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:36:23 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(37): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:36:27 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(37): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:37:36 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(37): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:37:37 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(37): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:40:44 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(35): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:40:59 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(35): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:41:39 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(35): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(43): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:41:42 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(35): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(43): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->register()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:41:59 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(35): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('dashboard')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:43:56 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(32): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('auth/login')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-01-08 23:43:57 --> Undefined variable $userInfo
+#0 C:\vhost\ci1\app\Views\common\header.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\vhost\\ci1\\ap...', 38)
+#1 C:\vhost\ci1\system\View\View.php(214): include('C:\\vhost\\ci1\\ap...')
+#2 C:\vhost\ci1\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\vhost\ci1\system\Common.php(1097): CodeIgniter\View\View->render('common/header', Array, true)
+#4 C:\vhost\ci1\app\Controllers\Auth.php(32): view('common/header', Array)
+#5 C:\vhost\ci1\app\Controllers\Auth.php(25): App\Controllers\Auth->render_page('auth/login')
+#6 C:\vhost\ci1\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#7 C:\vhost\ci1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\vhost\ci1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\vhost\ci1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
